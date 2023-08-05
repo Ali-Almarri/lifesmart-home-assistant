@@ -1,13 +1,4 @@
-# lifesmart-home-assistant
-how to setup lifesmart-integration
-https://github.com/likso/hass-lifesmart
+you can find Lifesmart integration here
+ [GitHub - ALITECHLAB/lifesmart-home-assistant](https://github.com/ALITECHLAB/lifesmart-home-assistant)
 
-System Info 
-
-Home Assistant 2022.12.8 
-
-Supervisor 2022.11.2
-
-Operating System 9.4
-
-Frontend 20221213.1 - latest
+[How to install Lifesmart integration Home Assistant - YouTube](https://www.youtube.com/watch?v=s3JuIvKdzmE)
