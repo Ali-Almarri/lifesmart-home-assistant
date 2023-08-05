@@ -1,4 +1,4 @@
-##you can find Lifesmart integration here
+## you can find Lifesmart integration here
 
 
 [GitHub - ALITECHLAB/lifesmart-home-assistant](https://github.com/ALITECHLAB/lifesmart-home-assistant)
